@@ -1,0 +1,8 @@
+main: com.asheept.time.TimePlugin
+version: 0.1
+name: time
+api-version: 1.18
+
+commands:
+  time:
+  alive:
